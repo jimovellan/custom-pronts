@@ -59,4 +59,5 @@ Te proporcionaré la estructura de una solución .NET (carpetas y proyectos) y, 
 2. Problemas detectados.
 3. Riesgos técnicos.
 4. Propuesta de mejora estructural.
-5. Nivel estimado de madurez arquitectónica (bajo / medio / alto).
+5. Resumir puntos de entrada.
+6. Nivel estimado de madurez arquitectónica (bajo / medio / alto).
