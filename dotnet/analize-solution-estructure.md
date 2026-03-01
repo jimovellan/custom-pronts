@@ -46,6 +46,8 @@ Te proporcionaré la estructura de una solución .NET (carpetas y proyectos) y, 
 4. Detectar violaciones de Clean Architecture o SOLID.
 5. Identificar riesgos de escalabilidad o mantenibilidad.
 6. Proponer mejoras estructurales sin cambiar la funcionalidad.
+7. Detectar puntos de entrada.
+8. Detectar puntos de exposicion.
 
 ## Restricciones
 - No asumir información que no esté presente.
